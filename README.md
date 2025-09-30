@@ -8,9 +8,8 @@ Fun, colorful, and dead simple!
 
 Get Rolling
 Set it up and dive in!
-Install:
-
-bash <(curl -s https://raw.githubusercontent.com/bdmasumvai/videomaster/main/installer.sh)
+```Install:
+<(curl -s https://raw.githubusercontent.com/bdmasumvai/VedioMaster/main/installer.sh)```
 Run:
 
 videomaster
