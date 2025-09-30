@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# VideoMaster Pro - A video processing tool by Masum Vai BD
+# videomaster Pro - A video processing tool by Masum Vai BD
 # Version: 3.3.1
 # GitHub: https://github.com/bdmasumvai/VideoMaster
 # Telegram: @MasumVaiBD
@@ -9,10 +9,10 @@
 # Initialize variables
 VERSION="3.3.1"
 AUTHOR="MasumVaiBD"
-TOOL_NAME="VideoMaster Pro"
-BASE_DIR="$HOME/.VideoMaster"
-HIDDEN_DIR="/sdcard/VideoMaster/.MasumVault"
-OUTPUT_DIR="/sdcard/VideoMaster"
+TOOL_NAME="videomaster Pro"
+BASE_DIR="$HOME/.videomaster"
+HIDDEN_DIR="/sdcard/videomaster/.MasumVault"
+OUTPUT_DIR="/sdcard/videomaster"
 OP_LOG="$HIDDEN_DIR/operation_$(date +%Y%m%d).log"
 ERROR_LOG="$HIDDEN_DIR/ffmpeg_error.log"
 UPDATE_URL="https://raw.githubusercontent.com/bdmasumvai/VideoMaster/main/videomaster"
@@ -45,7 +45,7 @@ check_storage_permission() {
             echo -e "$RED Error: Storage permission not granted. Please allow storage access in Termux settings and run again.$RESET"
             echo -e "$YELLOW 1. Go to Termux app settings."
             echo -e "$YELLOW 2. Allow storage permission."
-            echo -e "$YELLOW 3. Run the script again with: VideoMaster$RESET"
+            echo -e "$YELLOW 3. Run the script again with: videomaster$RESET"
             exit 1
         fi
     fi
