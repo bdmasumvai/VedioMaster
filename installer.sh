@@ -14,10 +14,10 @@ SCRIPT_VERSION="3.3.1"
 INSTALL_DIR="/data/data/com.termux/files/usr/bin"
 SCRIPT_NAME="videomaster"
 REPO_URL="https://github.com/bdmasumvai/VedioMaster.git"
-CLONE_DIR="$HOME/VideoMaster_temp"
-HIDDEN_DIR="/sdcard/VideoMaster/.MasumVault"
+CLONE_DIR="$HOME/videomaster_temp"
+HIDDEN_DIR="/sdcard/videomaster/.MasumVault"
 LOG_FILE="$HIDDEN_DIR/setup.log"
-OLD_LOG_FILE="$HOME/VideoMaster_setup.log"
+OLD_LOG_FILE="$HOME/videomaster_setup.log"
 
 # Colors
 RED='\033[1;31m'
