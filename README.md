@@ -8,12 +8,12 @@ Fun, colorful, and dead simple!
 
 Get Rolling
 Set it up and dive in!
-```Install:
-<(curl -s https://raw.githubusercontent.com/bdmasumvai/VedioMaster/main/installer.sh)```
+Install:
+<(curl -s https://raw.githubusercontent.com/bdmasumvai/VedioMaster/main/installer.sh)
 Run:
 
 videomaster
-Screenshots
+🔗 Screenshots
   
 
 videoMaster’s menu is pure fire! Edit videos in seconds.
