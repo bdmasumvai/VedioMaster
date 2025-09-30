@@ -9,8 +9,11 @@ Get Rolling
 Set it up and dive in! 
 Install:
 bash <(curl -s https://raw.githubusercontent.com/bdmasumvai/VedioMaster/main/installer.sh)
+
 Run:
+
 videomaster
+
 🔗 Screenshots
 
 videoMaster’s menu is pure fire! Edit videos in seconds.
