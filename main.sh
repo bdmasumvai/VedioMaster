@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# VideoMaster Pro - Main entry point
+# videomaster Pro - Main entry point
 # Version: 3.3.1
 # Author: Masum Vai BD
 
