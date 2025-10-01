@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# videomaster Pro - Main entry point
+# VideoMaster Pro - Main entry point
 # Version: 3.3.1
-# Author: Masum Vai BD
+# Author: Masum Vai
 
 # Define base directory
 BASE_DIR="$HOME/.videomaster"
