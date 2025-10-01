@@ -33,6 +33,6 @@ Play with videos like a pro!
 
 ## About
 Made by Vai 😎  
-Join the gang: [Facebook](https://facebook.com/groups/tutorialzonebd/) | [Telegram](t.me/MasumVaiBD)  
+Join the gang: [Facebook](https://facebook.com/masumvaibd/) | [Telegram](t.me/MasumVaiBD)  
 License: MIT (see [LICENSE](LICENSE))  
 Big vibes for Termux fans! 💖
