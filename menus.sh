@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Menu functions for videomaster Pro
+# Menu functions for VideoMaster Pro
 
 open_telegram() {
     echo -e "$YELLOW Opening Telegram...$RESET"
