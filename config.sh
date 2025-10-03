@@ -66,7 +66,7 @@ check_dependencies() {
 show_banner() {
     echo -e "${CYAN}"
     echo "╔══════════════════════════════════════════╗"
-    echo "║             🅅🄸🄳🄴🄾 🄼🄰🅂🄴🅁          ║"
+    echo "║              🅅🄸🄳🄴🄾 🄼🄰🅂🄴🅁          ║"
     echo "║               VIDEO MASTER               ║"
     echo "║             Created by Masum Vai         ║"
     echo "║                Version $APP_VERSION              ║"
